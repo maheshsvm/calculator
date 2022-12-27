@@ -1,4 +1,3 @@
-# calculator
-Calculator
+# Calculator
 -> Fully responsive
 -> Cool design
